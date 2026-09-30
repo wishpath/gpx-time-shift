@@ -1,4 +1,4 @@
-# GPX Timestamp Shifter
+# gpx-time-shift
 
 Shifts all `<time>` timestamps in a `.gpx` file by a fixed offset, relative to the
 activity's original start time.
